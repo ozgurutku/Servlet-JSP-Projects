@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet("/requestPostFormURL")
+@WebServlet("/login")
 public class PersonController extends HttpServlet {
 
 	@Override
